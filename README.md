@@ -1,1 +1,1 @@
-# GHC22_RelatedReferences_BeyondMoore
+# List of Related References from my Talk " Beyond Moore's Law with Superconducting Technology"
